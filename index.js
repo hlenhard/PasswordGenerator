@@ -112,5 +112,3 @@ function getRandomPassword() {
   }
   passwordOne.value = str;
 }
-
-function copyPassword() {}
